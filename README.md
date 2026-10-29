@@ -6,11 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🐧 Uso Arch Linux
-- 🐍 Hago herramientas en Python para Linux (como Discord Rich Presence para Stremio)
-- ⚡ Proyectos web y utilidades en JavaScript
-- ☕ Empecé con Java (juegos y pruebas)
-- 🚀 Aprendiendo en público, un commit a la vez
+- 🐧todo hecho con ia hola
 
 ## 🛠️ Stack
 
