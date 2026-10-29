@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Hola,+soy+Noah+👋;vibecodeo+y+aprendo+Java;Usuario+de+Arch+(btw)" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hola, soy Noah 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noahazrz&style=for-the-badge&color=blue" />
@@ -8,13 +6,16 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎮 Hago juegos y proyectos pequeños en Java
-- 🌐 Hago landing pages y webs en GitHub Pages
 - 🐧 Uso Arch Linux
+- 🐍 Hago herramientas en Python para Linux (como Discord Rich Presence para Stremio)
+- ⚡ Proyectos web y utilidades en JavaScript
+- ☕ Empecé con Java (juegos y pruebas)
 - 🚀 Aprendiendo en público, un commit a la vez
 
 ## 🛠️ Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,25 +24,13 @@
 
 ## 📌 Proyectos
 
-<p align="center">
-  <a href="https://github.com/noahazrz/juegos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahazrz&repo=juegos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/noahazrz/javanoah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahazrz&repo=javanoah&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/noahazrz/LandingPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahazrz&repo=LandingPage&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/noahazrz/cashociniario.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahazrz&repo=cashociniario.github.io&theme=tokyonight" />
-  </a>
-</p>
-
-## 🔥 Racha
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=noahazrz&theme=tokyonight" />
-</p>
+| Proyecto | Qué es | Lenguaje |
+|---|---|---|
+| [stremio-rpc](https://github.com/noahazrz/stremio-rpc) | Discord Rich Presence para Stremio en Linux | Python |
+| [icasho-loop](https://github.com/noahazrz/icasho-loop) | Proyecto en desarrollo | JavaScript |
+| [fight-signaling](https://github.com/noahazrz/fight-signaling) | Proyecto en desarrollo | JavaScript |
+| [pomocashodoro](https://github.com/noahazrz/pomocashodoro) | Pomodoro a mi manera | JavaScript |
+| [cashociniario.github.io](https://github.com/noahazrz/cashociniario.github.io) | Web de Cashociniario | CSS |
+| [LandingPage](https://github.com/noahazrz/LandingPage) | Landing page | HTML |
+| [juegos](https://github.com/noahazrz/juegos) | Juegos en Java | Java |
+| [javanoah](https://github.com/noahazrz/javanoah) | Primeros pasos en Java | Java |
